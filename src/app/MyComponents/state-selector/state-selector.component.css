@@ -1,0 +1,14 @@
+/* state-selector.component.css */
+.mat-form-field {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    padding: 8px;
+    background-color: #f8f9fa;
+  }
+  .mat-form-field .mat-label {
+    font-weight: bold;
+  }
+  .mat-form-field .mat-select {
+    padding: 8px;
+  }
+  
